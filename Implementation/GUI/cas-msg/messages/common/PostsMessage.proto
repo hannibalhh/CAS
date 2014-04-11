@@ -1,0 +1,16 @@
+package org.haw.cas.Adapters.AkkaAdapter.Implementation.ProtoMsgBuilder;
+
+message UpdatePosts {
+}
+
+message Posts {
+	repeated Post posts = 1;
+}
+
+message Post {
+	required string author = 1;
+	required int64 creationTime = 2;
+	required string message = 3;
+	required string Provenance = 4;
+	required string pictureUrl = 5;
+}

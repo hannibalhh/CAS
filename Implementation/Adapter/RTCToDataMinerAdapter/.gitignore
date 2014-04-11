@@ -1,0 +1,4 @@
+# Reinclude Intellij project files
+!.idea/
+!*.iml
+#!*.iws

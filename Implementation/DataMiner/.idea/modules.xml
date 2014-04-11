@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApplicationCore/ApplicationCore.iml" filepath="$PROJECT_DIR$/ApplicationCore/ApplicationCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonTypes/CommonTypes.iml" filepath="$PROJECT_DIR$/CommonTypes/CommonTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coordinator/Coordinator.iml" filepath="$PROJECT_DIR$/Coordinator/Coordinator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrevasseAnalyzer/CrevasseAnalyzer.iml" filepath="$PROJECT_DIR$/CrevasseAnalyzer/CrevasseAnalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../R-Components/DSPersistenceManager/DSPersistenceManager.iml" filepath="$PROJECT_DIR$/../R-Components/DSPersistenceManager/DSPersistenceManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataMinerStarter/DataMinerStarter.iml" filepath="$PROJECT_DIR$/DataMinerStarter/DataMinerStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GlobalTypes/GlobalTypes.iml" filepath="$PROJECT_DIR$/../GlobalTypes/GlobalTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfestationAnalyzer/InfestationAnalyzer.iml" filepath="$PROJECT_DIR$/InfestationAnalyzer/InfestationAnalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MessageAdapter/MessageAdapter.iml" filepath="$PROJECT_DIR$/MessageAdapter/MessageAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MissingAnalyzer/MissingAnalyzer.iml" filepath="$PROJECT_DIR$/MissingAnalyzer/MissingAnalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NeedsAnalyzer/NeedsAnalyzer.iml" filepath="$PROJECT_DIR$/NeedsAnalyzer/NeedsAnalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaceOfResidenceAnalyzer/PlaceOfResidenceAnalyzer.iml" filepath="$PROJECT_DIR$/PlaceOfResidenceAnalyzer/PlaceOfResidenceAnalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Adapter/RTCToDataMinerAdapter/RTCToDataMinerAdapter.iml" filepath="$PROJECT_DIR$/../Adapter/RTCToDataMinerAdapter/RTCToDataMinerAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../R-Components/RabbitMQAdapter/RabbitMQAdapter.iml" filepath="$PROJECT_DIR$/../R-Components/RabbitMQAdapter/RabbitMQAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextminerToolbox/TextminerToolbox.iml" filepath="$PROJECT_DIR$/TextminerToolbox/TextminerToolbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WaterLevelAnalyzer/WaterLevelAnalyzer.iml" filepath="$PROJECT_DIR$/WaterLevelAnalyzer/WaterLevelAnalyzer.iml" />
+    </modules>
+  </component>
+</project>
+

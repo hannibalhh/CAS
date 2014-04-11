@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="IdProvider" IDEtalkID="07BCC8789EF57BDE1658634F5D835E80" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../R-Components/DSPersistenceManager/pom.xml" />
+        <option value="$PROJECT_DIR$/ApplicationCore/pom.xml" />
+        <option value="$PROJECT_DIR$/CommonTypes/pom.xml" />
+        <option value="$PROJECT_DIR$/Coordinator/pom.xml" />
+        <option value="$PROJECT_DIR$/CrevasseAnalyzer/pom.xml" />
+        <option value="$PROJECT_DIR$/DataMinerStarter/pom.xml" />
+        <option value="$PROJECT_DIR$/InfestationAnalyzer/pom.xml" />
+        <option value="$PROJECT_DIR$/MessageAdapter/pom.xml" />
+        <option value="$PROJECT_DIR$/MissingAnalyzer/pom.xml" />
+        <option value="$PROJECT_DIR$/NeedsAnalyzer/pom.xml" />
+        <option value="$PROJECT_DIR$/PlaceOfResidenceAnalyzer/pom.xml" />
+        <option value="$PROJECT_DIR$/../Adapter/RTCToDataMinerAdapter/pom.xml" />
+        <option value="$PROJECT_DIR$/WaterLevelAnalyzer/pom.xml" />
+        <option value="$PROJECT_DIR$/../R-Components/RabbitMQAdapter/pom.xml" />
+        <option value="$PROJECT_DIR$/../GlobalTypes/pom.xml" />
+        <option value="$PROJECT_DIR$/com.haw.cas.TextMiner.Toolbox/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Mockup/MongoDBMockup/pom.xml" />
+        <option value="$PROJECT_DIR$/TextminerToolbox/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+

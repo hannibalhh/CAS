@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="app"/>
+	<buildpathentry kind="src" path="test"/>
+	<buildpathentry kind="src" path="target/scala-2.10/src_managed/main"/>
+	<buildpathentry kind="con" path="org.eclipse.dltk.mod.launching.INTERPRETER_CONTAINER"/>
+	<buildpathentry kind="con" path="org.eclipse.vjet.eclipse.core.JSNATIVE_CONTAINER/JS Native Types"/>
+	<buildpathentry kind="con" path="org.eclipse.vjet.eclipse.core.BROWSER_CONTAINER/Browser SDK"/>
+	<buildpathentry external="true" kind="lib" path="/Users/hannibal/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.2.0.jar"/>
+	<buildpathentry external="true" kind="lib" path="/Users/hannibal/.ivy2/cache/org.specs2/specs2_2.10/jars/specs2_2.10-2.1.1.jar"/>
+	<buildpathentry external="true" kind="lib" path="/Users/hannibal/.ivy2/cache/org.seleniumhq.selenium/selenium-java/jars/selenium-java-2.32.0.jar"/>
+	<buildpathentry external="true" kind="lib" path="/Users/hannibal/.ivy2/cache/org.seleniumhq.selenium/selenium-safari-driver/jars/selenium-safari-driver-2.32.0.jar"/>
+</buildpath>

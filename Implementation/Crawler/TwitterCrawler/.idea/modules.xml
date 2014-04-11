@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../R-Components/DSPersistenceManager/DSPersistenceManager.iml" filepath="$PROJECT_DIR$/../../R-Components/DSPersistenceManager/DSPersistenceManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GlobalTypes/GlobalTypes.iml" filepath="$PROJECT_DIR$/../../GlobalTypes/GlobalTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwitterCrawler.iml" filepath="$PROJECT_DIR$/TwitterCrawler.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,11 @@
+package org.haw.cas.Adapters.AkkaAdapter.Implementation.ProtoMsgBuilder;
+
+import "messages/common/GeoCoordinatesMessage.proto";
+
+// This message is sent by the GUI, to ask for user positions in the defined field.
+message UpdateUserPositions {
+	required string requestId = 1;
+	required GeoCoordinates center = 2;
+	required float radius = 3;
+	required int64 oldest = 4;
+}

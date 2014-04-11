@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="IdProvider" IDEtalkID="89B41F6BE1E6DD48ABAEDBF46178E925" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../Adapter/AkkaAdapter/pom.xml" />
+        <option value="$PROJECT_DIR$/../R-Components/RabbitMQConnector/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../Adapter/RTCToDataMinerAdapter/pom.xml" />
+        <option value="$PROJECT_DIR$/ApplicationCore/pom.xml" />
+        <option value="$PROJECT_DIR$/RealTimeCoreStarter/pom.xml" />
+        <option value="$PROJECT_DIR$/UserComponent/pom.xml" />
+        <option value="$PROJECT_DIR$/../R-Components/RabbitMQAdapter/pom.xml" />
+        <option value="$PROJECT_DIR$/CommonTypes/pom.xml" />
+        <option value="$PROJECT_DIR$/GlobalTypes/pom.xml" />
+        <option value="$PROJECT_DIR$/../GlobalTypes/pom.xml" />
+        <option value="$PROJECT_DIR$/NeedsComponent/pom.xml" />
+        <option value="$PROJECT_DIR$/CrevasseComponent/pom.xml" />
+        <option value="$PROJECT_DIR$/../R-Components/RTCDatabaseAdapter/pom.xml" />
+        <option value="$PROJECT_DIR$/../R-Components/PersistenceManager/pom.xml" />
+        <option value="$PROJECT_DIR$/../R-Components/DataMiningTools/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Mockup/DataMinerMockup/pom.xml" />
+        <option value="$PROJECT_DIR$/StatisticsComponent/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../R-Components/RabbitMQConnector/pom.xml" />
+        <option value="$PROJECT_DIR$/GlobalTypes/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+

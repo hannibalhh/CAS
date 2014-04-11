@@ -1,0 +1,15 @@
+package org.haw.cas.Adapters.AkkaAdapter.Implementation.ProtoMsgBuilder;
+import "messages/common/GeoCoordinatesMessage.proto";
+
+// broadcast channel: crevasses
+message Crevasses {
+ repeated Crevasse crevasse = 1; 
+}
+
+message Crevasse {
+  required string author = 1;
+  required GeoCoordinates geo = 2;
+  required int64 creationTime = 3;
+  required string message = 4;
+  required string Provenance = 5;
+}

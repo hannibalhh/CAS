@@ -1,0 +1,52 @@
+[INFO ] [2013-12-29 02:22:39,557] [play-internal-execution-context-1] Application started (Dev)
+[DEBUG] [2013-12-29 02:22:45,684] [casweb-akka.actor.default-dispatcher-4] [akka://casweb/user/crevassessocketbuffer] started
+[DEBUG] [2013-12-29 02:22:45,653] [casweb-akka.actor.default-dispatcher-3] [akka://casweb/user/needssocketbuffer] started
+[DEBUG] [2013-12-29 02:22:45,971] [rabbit-akka.actor.default-dispatcher-4] [akka://rabbit/user/subscriber] started
+[DEBUG] [2013-12-29 02:22:46,296] [rabbit-akka.actor.default-dispatcher-5] [akka://rabbit/user/consumer] started
+[DEBUG] [2013-12-29 02:22:46,454] [casweb-akka.actor.default-dispatcher-4] [akka://casweb/user/crevassessocketbuffer] connected
+[DEBUG] [2013-12-29 02:22:46,456] [casweb-akka.actor.default-dispatcher-3] [akka://casweb/user/needssocketbuffer] connected
+[DEBUG] [2013-12-29 02:22:46,457] [play-akka.actor.default-dispatcher-2] [std] NeedsSocket:Connect
+[DEBUG] [2013-12-29 02:22:46,864] [rabbit-akka.actor.default-dispatcher-3] [akka://rabbit/user/consumer] consume from: miner_cas_rtc_to_gui
+[DEBUG] [2013-12-29 02:22:47,008] [casweb-akka.actor.default-dispatcher-4] [akka://casweb/user/crevassesbuffer] started
+[DEBUG] [2013-12-29 02:22:47,012] [casweb-akka.actor.default-dispatcher-2] [akka://casweb/user/needsbuffer] NeedsBufferActor started
+[DEBUG] [2013-12-29 02:22:47,241] [myrabbit-akka.actor.default-dispatcher-6] [akka://myrabbit/user/send] send NeedsMessage to miner_cas_rtc_to_gui
+[DEBUG] [2013-12-29 02:22:47,255] [myrabbit-akka.actor.default-dispatcher-6] [akka://myrabbit/user/send] send CrevassesMessage to miner_cas_rtc_to_gui
+[DEBUG] [2013-12-29 02:22:47,307] [rabbit-akka.actor.default-dispatcher-5] [akka://rabbit/user/send] send UpdateNeedsMessage to miner_cas_gui_to_rtc
+[DEBUG] [2013-12-29 02:22:47,343] [casweb-akka.actor.default-dispatcher-5] [akka://casweb/user/crevassessocketbuffer] push
+[DEBUG] [2013-12-29 02:22:47,362] [casweb-akka.actor.default-dispatcher-3] [akka://casweb/user/needssocketbuffer] push
+[DEBUG] [2013-12-29 02:22:47,384] [casweb-akka.actor.default-dispatcher-6] [akka://casweb/user/needsbuffer] become publishing getAccomodationCount:2 getHelperCount: 1 getDrinkCount: 0 getFoodCount:0getMedicamentCount: 0
+[DEBUG] [2013-12-29 02:22:47,642] [casweb-akka.actor.default-dispatcher-3] [akka://casweb/user/needssocketbuffer] push
+[DEBUG] [2013-12-29 02:22:55,250] [myrabbit-akka.actor.default-dispatcher-5] [akka://myrabbit/user/send] send CrevassesMessage to miner_cas_rtc_to_gui
+[DEBUG] [2013-12-29 02:22:55,255] [casweb-akka.actor.default-dispatcher-3] [akka://casweb/user/crevassessocketbuffer] push
+[DEBUG] [2013-12-29 02:23:03,251] [myrabbit-akka.actor.default-dispatcher-5] [akka://myrabbit/user/send] send CrevassesMessage to miner_cas_rtc_to_gui
+[DEBUG] [2013-12-29 02:23:03,253] [rabbit-akka.actor.default-dispatcher-6] [akka://rabbit/user/send] send UpdateCrevassesMessage to miner_cas_gui_to_rtc
+[DEBUG] [2013-12-29 02:23:03,255] [casweb-akka.actor.default-dispatcher-4] [akka://casweb/user/crevassesbuffer] become publishing 
+[DEBUG] [2013-12-29 02:23:03,255] [casweb-akka.actor.default-dispatcher-5] [akka://casweb/user/crevassessocketbuffer] push
+[DEBUG] [2013-12-29 02:23:03,256] [casweb-akka.actor.default-dispatcher-4] [akka://casweb/user/crevassesbuffer] imcoming in publishing 
+[DEBUG] [2013-12-29 02:23:03,259] [casweb-akka.actor.default-dispatcher-3] [akka://casweb/user/crevassesbuffer] imcoming in publishing 
+[DEBUG] [2013-12-29 02:23:03,259] [casweb-akka.actor.default-dispatcher-3] [akka://casweb/user/crevassessocketbuffer] push
+[DEBUG] [2013-12-29 02:28:58,962] [play-akka.actor.default-dispatcher-3] [std] new timeline request id: 80af8f5d95ca0c86ae6b2323d423c0ff9f284dcc
+[DEBUG] [2013-12-29 02:28:58,963] [play-akka.actor.default-dispatcher-10] [std] new timeline request id: b84c2254cb35e26da797da9cbd985c81f8242b9b
+[DEBUG] [2013-12-29 02:28:58,976] [casweb-akka.actor.default-dispatcher-7] [akka://casweb/user/timelinebuffer] started
+[DEBUG] [2013-12-29 02:28:58,989] [myrabbit-akka.actor.default-dispatcher-2] [akka://myrabbit/user/send] send TimelinesMessage to miner_cas_rtc_to_gui
+[DEBUG] [2013-12-29 02:28:58,998] [myrabbit-akka.actor.default-dispatcher-2] [akka://myrabbit/user/send] send TimelinesMessage to miner_cas_rtc_to_gui
+[DEBUG] [2013-12-29 02:28:58,998] [myrabbit-akka.actor.default-dispatcher-2] [akka://myrabbit/user/send] send TimelinesMessage to miner_cas_rtc_to_gui
+[DEBUG] [2013-12-29 02:28:59,003] [casweb-akka.actor.default-dispatcher-7] [akka://casweb/user/timelinebuffer] UpdateTimelines: not found, nothing there 
+[DEBUG] [2013-12-29 02:28:59,004] [rabbit-akka.actor.default-dispatcher-6] [akka://rabbit/user/send] send UpdateTimelinesMessage to miner_cas_gui_to_rtc
+[DEBUG] [2013-12-29 02:28:59,004] [myrabbit-akka.actor.default-dispatcher-2] [akka://myrabbit/user/send] send TimelinesMessage to miner_cas_rtc_to_gui
+[DEBUG] [2013-12-29 02:28:59,007] [casweb-akka.actor.default-dispatcher-7] [akka://casweb/user/timelinebuffer] UpdateTimelines 
+[DEBUG] [2013-12-29 02:28:59,007] [casweb-akka.actor.default-dispatcher-7] [akka://casweb/user/timelinebuffer] UpdateTimelines: not found
+[DEBUG] [2013-12-29 02:28:59,008] [rabbit-akka.actor.default-dispatcher-6] [akka://rabbit/user/send] send UpdateTimelinesMessage to miner_cas_gui_to_rtc
+[DEBUG] [2013-12-29 02:28:59,012] [casweb-akka.actor.default-dispatcher-7] [akka://casweb/user/timelinebuffer] new timeline (not requested) 
+[DEBUG] [2013-12-29 02:28:59,012] [casweb-akka.actor.default-dispatcher-7] [akka://casweb/user/timelinebuffer] new timeline (requested), refcount: 0
+[DEBUG] [2013-12-29 02:28:59,013] [casweb-akka.actor.default-dispatcher-7] [akka://casweb/user/timelinebuffer] new timeline (not requested) 
+[DEBUG] [2013-12-29 02:28:59,013] [casweb-akka.actor.default-dispatcher-7] [akka://casweb/user/timelinebuffer] new timeline (not requested) 
+[DEBUG] [2013-12-29 02:29:33,221] [play-akka.actor.default-dispatcher-14] [std] NeedsSocket:Connect
+[DEBUG] [2013-12-29 02:29:33,223] [casweb-akka.actor.default-dispatcher-9] [akka://casweb/user/needssocketbuffer] connected
+[DEBUG] [2013-12-29 02:29:33,331] [casweb-akka.actor.default-dispatcher-11] [akka://casweb/user/needsbuffer] sender in publishing
+[DEBUG] [2013-12-29 02:29:33,333] [casweb-akka.actor.default-dispatcher-11] [akka://casweb/user/needssocketbuffer] push
+[DEBUG] [2013-12-29 02:29:33,341] [casweb-akka.actor.default-dispatcher-13] [akka://casweb/user/crevassessocketbuffer] connected
+[DEBUG] [2013-12-29 02:29:33,351] [casweb-akka.actor.default-dispatcher-13] [akka://casweb/user/crevassesbuffer]  sender in publishing: Actor[akka://casweb/user/crevassessocketbuffer#377093617]
+[DEBUG] [2013-12-29 02:29:33,352] [casweb-akka.actor.default-dispatcher-9] [akka://casweb/user/crevassessocketbuffer] push
+[DEBUG] [2013-12-29 02:30:38,977] [play-akka.actor.default-dispatcher-10] [std] timelines: java.util.concurrent.TimeoutException: Futures timed out after [100 seconds]
+[DEBUG] [2013-12-29 02:30:38,980] [play-akka.actor.default-dispatcher-3] [std] timelines: java.util.concurrent.TimeoutException: Futures timed out after [100 seconds]

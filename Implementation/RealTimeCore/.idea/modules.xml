@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Adapter/AkkaAdapter/AkkaAdapter.iml" filepath="$PROJECT_DIR$/../Adapter/AkkaAdapter/AkkaAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApplicationCore/ApplicationCore.iml" filepath="$PROJECT_DIR$/ApplicationCore/ApplicationCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonTypes/CommonTypes.iml" filepath="$PROJECT_DIR$/CommonTypes/CommonTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrevasseComponent/CrevasseComponent.iml" filepath="$PROJECT_DIR$/CrevasseComponent/CrevasseComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Mockup/DataMinerMockup/DataMinerMockup.iml" filepath="$PROJECT_DIR$/../../Mockup/DataMinerMockup/DataMinerMockup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../R-Components/DataMiningTools/DataMiningTools.iml" filepath="$PROJECT_DIR$/../R-Components/DataMiningTools/DataMiningTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GlobalTypes/GlobalTypes.iml" filepath="$PROJECT_DIR$/../GlobalTypes/GlobalTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NeedsComponent/NeedsComponent.iml" filepath="$PROJECT_DIR$/NeedsComponent/NeedsComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../R-Components/PersistenceManager/PersistenceManager.iml" filepath="$PROJECT_DIR$/../R-Components/PersistenceManager/PersistenceManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Adapter/RTCToDataMinerAdapter/RTCToDataMinerAdapter.iml" filepath="$PROJECT_DIR$/../Adapter/RTCToDataMinerAdapter/RTCToDataMinerAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../R-Components/RabbitMQAdapter/RabbitMQAdapter.iml" filepath="$PROJECT_DIR$/../R-Components/RabbitMQAdapter/RabbitMQAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RealTimeCoreStarter/RealTimeCoreStarter.iml" filepath="$PROJECT_DIR$/RealTimeCoreStarter/RealTimeCoreStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatisticsComponent/StatisticsComponent.iml" filepath="$PROJECT_DIR$/StatisticsComponent/StatisticsComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserComponent/UserComponent.iml" filepath="$PROJECT_DIR$/UserComponent/UserComponent.iml" />
+    </modules>
+  </component>
+</project>
+

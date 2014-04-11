@@ -1,0 +1,15 @@
+package org.haw.cas.Adapters.RTCToDataMinerAdapter.Implementation.data.messageTyp.java;
+
+message NeedsInfoMessage {
+    enum NeedType{
+    		Food = 1;
+            Water = 2;
+            Shelter = 3;
+            MedicalCare = 4;
+            Helper =5;
+    	}
+
+	required string message = 1;
+	required NeedType needType =2;
+
+}

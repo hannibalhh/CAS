@@ -1,0 +1,675 @@
+15:12:18.092 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:12:19.100 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:12:19.293 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:12:19.293 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:12:23.719 [main] INFO  crawler.Crawler - gefundene Tweets für xaver: 699
+15:12:26.065 [main] INFO  crawler.Crawler - gefundene Tweets für brechen: 299
+15:12:37.817 [main] INFO  crawler.Crawler - gefundene Tweets für deich: 2199
+15:12:38.054 [main] INFO  crawler.Crawler - gefundene Tweets für castest: 19
+15:12:45.510 [main] INFO  crawler.Crawler - gefundene Tweets für hochwasser: 1399
+15:12:45.513 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:13:02.529 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:13:02.529 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:13:07.150 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:13:07.150 [main] INFO  crawler.Crawler - No Trends Crawling
+15:47:42.682 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:47:43.532 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:47:43.715 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:47:43.715 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:47:43.889 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:47:43.890 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:47:43.892 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:47:43.893 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:47:44.043 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:47:44.043 [main] INFO  crawler.Crawler - No Trends Crawling
+15:48:14.044 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:48:14.695 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:48:14.866 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:48:14.867 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:48:15.109 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:48:15.110 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:48:15.111 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:48:15.111 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:48:15.284 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:48:15.284 [main] INFO  crawler.Crawler - No Trends Crawling
+15:48:45.286 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:48:45.965 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:48:46.133 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:48:46.134 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:48:46.297 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:48:46.298 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:48:46.299 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:48:46.299 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:48:46.474 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:48:46.474 [main] INFO  crawler.Crawler - No Trends Crawling
+15:49:16.474 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:49:17.064 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:49:17.217 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:49:17.217 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:49:17.396 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 1
+15:49:17.401 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:49:18.295 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:49:18.296 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:49:18.452 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:49:18.452 [main] INFO  crawler.Crawler - No Trends Crawling
+15:49:48.453 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:49:49.015 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:49:49.166 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:49:49.166 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:49:49.329 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:49:49.329 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:49:49.329 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:49:49.329 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:49:49.479 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:49:49.479 [main] INFO  crawler.Crawler - No Trends Crawling
+15:50:19.481 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:50:20.050 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:50:20.202 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:50:20.203 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:50:20.403 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 1
+15:50:20.403 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:50:20.406 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:50:20.406 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:50:20.560 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:50:20.560 [main] INFO  crawler.Crawler - No Trends Crawling
+15:50:50.561 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:50:51.408 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:50:51.647 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:50:51.647 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:50:51.894 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 2
+15:50:51.894 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:50:51.901 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:50:51.901 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:50:52.077 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:50:52.077 [main] INFO  crawler.Crawler - No Trends Crawling
+15:51:22.078 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:51:22.666 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:51:22.820 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:51:22.820 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:51:22.988 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:51:22.989 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:51:22.989 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:51:22.990 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:51:23.144 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:51:23.144 [main] INFO  crawler.Crawler - No Trends Crawling
+15:51:53.145 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:51:53.989 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:51:54.149 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:51:54.149 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:51:54.322 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 1
+15:51:54.323 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:51:54.325 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:51:54.325 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:51:54.529 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:51:54.529 [main] INFO  crawler.Crawler - No Trends Crawling
+15:52:24.530 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:52:25.098 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:52:25.247 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:52:25.247 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:52:25.525 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 1
+15:52:25.526 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:52:25.529 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:52:25.529 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:52:25.682 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:52:25.682 [main] INFO  crawler.Crawler - No Trends Crawling
+15:52:55.682 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:52:56.244 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:52:56.401 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:52:56.401 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:52:56.691 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 1
+15:52:56.691 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:52:56.693 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:52:56.694 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:52:56.841 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:52:56.841 [main] INFO  crawler.Crawler - No Trends Crawling
+15:53:26.842 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:53:27.482 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:53:27.634 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:53:27.634 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:53:27.797 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 1
+15:53:27.798 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:53:27.799 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:53:27.799 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:53:27.955 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:53:27.955 [main] INFO  crawler.Crawler - No Trends Crawling
+15:53:57.956 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:53:58.556 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:53:58.707 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:53:58.707 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:53:58.864 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:53:58.864 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:53:58.864 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:53:58.864 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:53:59.019 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:53:59.019 [main] INFO  crawler.Crawler - No Trends Crawling
+15:54:29.021 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:54:29.656 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:54:29.956 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:54:29.956 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:54:30.290 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:54:30.290 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:54:30.290 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:54:30.290 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:54:30.453 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:54:30.454 [main] INFO  crawler.Crawler - No Trends Crawling
+15:55:00.455 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:55:01.089 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:55:01.252 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:55:01.252 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:55:01.495 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:55:01.495 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:55:01.496 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:55:01.496 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:55:01.657 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:55:01.657 [main] INFO  crawler.Crawler - No Trends Crawling
+15:55:31.658 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:55:32.313 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:55:32.486 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:55:32.486 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:55:32.666 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:55:32.666 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:55:32.667 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:55:32.667 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:55:32.836 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:55:32.836 [main] INFO  crawler.Crawler - No Trends Crawling
+15:56:02.838 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:56:03.408 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:56:03.557 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:56:03.557 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:56:03.708 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:56:03.709 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:56:03.709 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:56:03.709 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:56:03.864 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:56:03.864 [main] INFO  crawler.Crawler - No Trends Crawling
+15:56:33.864 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:56:34.434 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:56:34.589 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:56:34.590 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:56:34.821 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:56:34.821 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:56:34.821 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:56:34.821 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:56:35.109 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:56:35.109 [main] INFO  crawler.Crawler - No Trends Crawling
+15:57:05.109 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:57:05.687 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:57:05.844 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:57:05.844 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:57:06.054 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:57:06.054 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:57:06.055 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:57:06.055 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:57:06.207 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:57:06.207 [main] INFO  crawler.Crawler - No Trends Crawling
+15:57:36.208 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:57:36.772 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:57:36.922 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:57:36.922 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:57:37.068 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:57:37.068 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:57:37.068 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:57:37.069 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:57:37.231 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:57:37.231 [main] INFO  crawler.Crawler - No Trends Crawling
+15:58:07.231 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:58:08.418 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:58:08.594 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:58:08.594 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:58:08.797 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:58:08.797 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:58:08.798 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:58:08.798 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:58:08.962 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:58:08.962 [main] INFO  crawler.Crawler - No Trends Crawling
+15:58:38.963 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:58:39.610 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:58:39.763 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:58:39.764 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:58:39.925 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:58:39.925 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:58:39.925 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:58:39.925 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:58:40.073 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:58:40.073 [main] INFO  crawler.Crawler - No Trends Crawling
+15:59:10.073 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:59:10.677 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:59:10.840 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:59:10.841 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:59:11.048 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:59:11.049 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:59:11.049 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:59:11.049 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:59:11.212 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:59:11.212 [main] INFO  crawler.Crawler - No Trends Crawling
+15:59:41.212 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+15:59:41.792 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+15:59:41.941 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:59:41.941 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+15:59:42.190 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+15:59:42.191 [main] INFO  crawler.Crawler - #### Push to DB ####
+15:59:42.191 [main] INFO  crawler.Crawler - Everything Pushed
+
+15:59:42.191 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+15:59:42.347 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+15:59:42.348 [main] INFO  crawler.Crawler - No Trends Crawling
+16:00:12.349 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:00:12.958 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:00:13.118 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:00:13.118 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:00:13.384 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:00:13.384 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:00:13.385 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:00:13.385 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:00:13.548 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:00:13.548 [main] INFO  crawler.Crawler - No Trends Crawling
+16:00:43.549 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:00:44.123 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:00:44.284 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:00:44.284 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:00:44.431 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:00:44.432 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:00:44.432 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:00:44.432 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:00:44.588 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:00:44.588 [main] INFO  crawler.Crawler - No Trends Crawling
+16:01:14.589 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:01:15.157 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:01:15.322 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:01:15.322 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:01:15.474 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:01:15.474 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:01:15.474 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:01:15.474 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:01:15.628 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:01:15.628 [main] INFO  crawler.Crawler - No Trends Crawling
+16:01:45.628 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:01:46.336 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:01:46.516 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:01:46.516 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:01:46.676 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:01:46.676 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:01:46.676 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:01:46.676 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:01:46.848 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:01:46.848 [main] INFO  crawler.Crawler - No Trends Crawling
+16:02:16.848 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:02:17.476 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:02:17.639 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: true
+16:02:17.923 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:02:17.924 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:02:17.924 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:02:17.924 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:02:18.090 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: true
+16:02:18.090 [main] INFO  crawler.Crawler - Begin Trend Crawling
+16:02:18.260 [main] INFO  crawler.Crawler - EndTrendCrawling
+16:02:48.260 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:02:48.920 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:02:49.092 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:02:49.092 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:02:49.259 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:02:49.259 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:02:49.260 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:02:49.260 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:02:49.426 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:02:49.426 [main] INFO  crawler.Crawler - No Trends Crawling
+16:03:19.427 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:03:20.048 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:03:20.216 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:03:20.216 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:03:20.383 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:03:20.384 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:03:20.384 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:03:20.384 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:03:20.581 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:03:20.581 [main] INFO  crawler.Crawler - No Trends Crawling
+16:03:50.582 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:03:51.228 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:03:51.441 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:03:51.441 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:03:51.621 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 1
+16:03:51.621 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:03:51.622 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:03:51.622 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:03:51.802 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:03:51.802 [main] INFO  crawler.Crawler - No Trends Crawling
+16:04:21.802 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:04:22.532 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:04:22.705 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:04:22.705 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:04:22.908 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:04:22.908 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:04:22.908 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:04:22.908 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:04:23.076 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:04:23.077 [main] INFO  crawler.Crawler - No Trends Crawling
+16:04:53.078 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:04:53.718 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:04:53.902 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:04:53.902 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:04:54.069 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:04:54.069 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:04:54.069 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:04:54.069 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:04:54.242 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:04:54.242 [main] INFO  crawler.Crawler - No Trends Crawling
+16:05:24.244 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:05:25.177 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:05:25.419 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:05:25.419 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:05:25.802 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:05:25.802 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:05:25.802 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:05:25.803 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:05:25.976 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:05:25.976 [main] INFO  crawler.Crawler - No Trends Crawling
+16:05:55.977 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:05:56.610 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:05:56.774 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:05:56.774 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:05:56.939 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:05:56.939 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:05:56.940 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:05:56.940 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:05:57.105 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:05:57.105 [main] INFO  crawler.Crawler - No Trends Crawling
+16:06:27.106 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:06:27.746 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:06:27.928 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:06:27.928 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:06:28.124 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:06:28.124 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:06:28.125 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:06:28.125 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:06:28.297 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:06:28.297 [main] INFO  crawler.Crawler - No Trends Crawling
+16:06:58.298 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:06:58.930 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:06:59.099 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:06:59.099 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:06:59.299 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:06:59.299 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:06:59.299 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:06:59.299 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:06:59.463 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:06:59.463 [main] INFO  crawler.Crawler - No Trends Crawling
+16:07:29.463 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:07:30.196 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:07:30.446 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:07:30.446 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:07:30.612 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:07:30.612 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:07:30.613 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:07:30.613 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:07:30.776 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:07:30.776 [main] INFO  crawler.Crawler - No Trends Crawling
+16:08:00.777 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:08:01.415 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:08:01.583 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:08:01.583 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:08:01.831 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 1
+16:08:01.831 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:08:01.832 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:08:01.833 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:08:02.003 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:08:02.003 [main] INFO  crawler.Crawler - No Trends Crawling
+16:08:32.004 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:08:32.598 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:08:32.748 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:08:32.748 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:08:32.904 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 1
+16:08:32.904 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:08:32.905 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:08:32.905 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:08:33.055 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:08:33.055 [main] INFO  crawler.Crawler - No Trends Crawling
+16:09:03.057 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:09:03.598 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:09:03.746 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:09:03.746 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:09:03.931 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:09:03.931 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:09:03.932 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:09:03.932 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:09:04.082 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:09:04.082 [main] INFO  crawler.Crawler - No Trends Crawling
+16:09:34.083 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:09:34.789 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:09:34.972 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:09:34.972 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:09:35.233 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:09:35.233 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:09:35.233 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:09:35.233 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:09:35.382 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:09:35.382 [main] INFO  crawler.Crawler - No Trends Crawling
+16:10:05.383 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:10:05.977 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:10:06.146 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:10:06.146 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:10:06.298 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:10:06.298 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:10:06.298 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:10:06.298 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:10:06.453 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:10:06.453 [main] INFO  crawler.Crawler - No Trends Crawling
+16:10:36.453 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:10:37.103 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:10:37.267 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:10:37.267 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:10:37.442 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 2
+16:10:37.443 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:10:37.447 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:10:37.448 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:10:37.619 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:10:37.619 [main] INFO  crawler.Crawler - No Trends Crawling
+16:11:07.619 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:11:08.193 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:11:08.344 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:11:08.344 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:11:08.583 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:11:08.583 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:11:08.584 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:11:08.584 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:11:08.737 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:11:08.737 [main] INFO  crawler.Crawler - No Trends Crawling
+16:11:38.737 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:11:39.399 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:11:39.563 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:11:39.563 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:11:39.753 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:11:39.753 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:11:39.754 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:11:39.754 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:11:39.918 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:11:39.918 [main] INFO  crawler.Crawler - No Trends Crawling
+16:12:09.920 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:12:10.551 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:12:10.719 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:12:10.719 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:12:10.896 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:12:10.896 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:12:10.896 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:12:10.896 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:12:11.062 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:12:11.062 [main] INFO  crawler.Crawler - No Trends Crawling
+16:12:41.064 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:12:41.694 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:12:41.863 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:12:41.863 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:12:42.051 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:12:42.051 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:12:42.052 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:12:42.052 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:12:42.262 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:12:42.262 [main] INFO  crawler.Crawler - No Trends Crawling
+16:13:12.263 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:13:12.825 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:13:12.977 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:13:12.977 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:13:13.236 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:13:13.236 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:13:13.236 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:13:13.236 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:13:13.405 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:13:13.405 [main] INFO  crawler.Crawler - No Trends Crawling
+16:13:43.407 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:13:43.975 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:13:44.126 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:13:44.126 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:13:44.567 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:13:44.567 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:13:44.568 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:13:44.568 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:13:44.719 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:13:44.719 [main] INFO  crawler.Crawler - No Trends Crawling
+16:14:14.719 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:14:15.362 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:14:15.532 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:14:15.532 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:14:15.938 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:14:15.938 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:14:15.938 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:14:15.938 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:14:16.108 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:14:16.108 [main] INFO  crawler.Crawler - No Trends Crawling
+16:14:46.110 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:14:46.691 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:14:46.871 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:14:46.871 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:14:47.066 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:14:47.066 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:14:47.066 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:14:47.066 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:14:47.234 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:14:47.234 [main] INFO  crawler.Crawler - No Trends Crawling
+16:15:17.235 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:15:17.807 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:15:17.960 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:15:17.960 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:15:18.110 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:15:18.110 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:15:18.111 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:15:18.111 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:15:18.266 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:15:18.266 [main] INFO  crawler.Crawler - No Trends Crawling
+16:15:48.266 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:15:48.916 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:15:49.083 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:15:49.083 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:15:49.344 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:15:49.344 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:15:49.344 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:15:49.344 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:15:49.513 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:15:49.513 [main] INFO  crawler.Crawler - No Trends Crawling
+16:16:19.515 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:16:20.151 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:16:20.315 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:16:20.315 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:16:20.504 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:16:20.504 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:16:20.505 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:16:20.505 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:16:20.671 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:16:20.671 [main] INFO  crawler.Crawler - No Trends Crawling
+16:16:50.672 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:16:51.314 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:16:51.484 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:16:51.484 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:16:51.680 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:16:51.681 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:16:51.681 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:16:51.681 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:16:51.851 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:16:51.851 [main] INFO  crawler.Crawler - No Trends Crawling
+16:17:21.852 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:17:22.418 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:17:22.568 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: true
+16:17:22.744 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:17:22.744 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:17:22.744 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:17:22.744 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:17:22.902 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: true
+16:17:22.902 [main] INFO  crawler.Crawler - Begin Trend Crawling
+16:17:23.052 [main] INFO  crawler.Crawler - EndTrendCrawling
+16:17:53.052 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:17:53.690 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:17:53.857 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:17:53.857 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:17:54.163 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:17:54.163 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:17:54.164 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:17:54.164 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:17:54.329 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:17:54.329 [main] INFO  crawler.Crawler - No Trends Crawling
+16:18:24.330 [main] INFO  crawler.Crawler - Begin Crawling for SearchTerms
+16:18:24.886 [main] INFO  crawler.Crawler - Should Tweets be crawled? true
+16:18:25.033 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:18:25.033 [main] INFO  crawler.Crawler - ### Trends should no longer be crawled and will be removed ###
+16:18:25.178 [main] INFO  crawler.Crawler - gefundene Tweets für hawcas: 0
+16:18:25.178 [main] INFO  crawler.Crawler - #### Push to DB ####
+16:18:25.178 [main] INFO  crawler.Crawler - Everything Pushed
+
+16:18:25.178 [main] INFO  crawler.Crawler - End Crawling for SearchTerms
+16:18:25.326 [main] INFO  crawler.Crawler - Trends will be crawled in next turn: false
+16:18:25.326 [main] INFO  crawler.Crawler - No Trends Crawling

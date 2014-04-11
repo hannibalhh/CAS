@@ -1,0 +1,51 @@
+HowTo Adapter DataMiner <--> RTC:
+
+Init:
+
+    IRTCAdapter adapter = new RTCAdapterComponent();
+
+Senden von Information (Kein Protobuf!):
+
+    adapter.send(<InformationMessage>);
+
+Empfangen von Information (Kein Protobuf!):
+
+    MessageListener listener = new MessageListener();
+    adapter.subscribeForInformationMessage(listener);
+
+##############################################################################################
+
+Beispiel-Listener-Code:
+
+    package test;
+
+    import org.haw.cas.Adapters.RTCToDataMinerAdapter.Interface.IMessageListener;
+    import org.haw.cas.Adapters.RTCToDataMinerAdapter.Interface.Messages.InformationMessage;
+
+    public class MessageListener implements IMessageListener {
+
+	    @Override
+	    public void receiveMessage(InformationMessage information) {
+		    System.out.println("get Information with ID: " + information.getId());
+	    }
+
+    }
+
+##############################################################################################
+
+Konfiguration des Queue-Servers (nur wenn er von 3ten.de abweicht!)
+
+Anpassen der Klasse:
+
+    org.haw.cas.Adapters.RTCToDataMinerAdapter.Implementation.data.config
+
+Beispiel:
+
+    public static ConfigRTCtoDataMiner localhost = new ConfigRTCtoDataMiner(
+			    "localhost", 5672, "admin", "admin");
+   
+    Mit den Feldern:
+    host = "localhost"
+    port = 5672
+    user = "admin"
+    pw   = "admin"

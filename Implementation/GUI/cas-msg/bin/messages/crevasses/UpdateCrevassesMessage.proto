@@ -1,0 +1,3 @@
+package org.haw.cas.Adapters.AkkaAdapter.Implementation.ProtoMsgBuilder;
+
+message UpdateCrevasses{}

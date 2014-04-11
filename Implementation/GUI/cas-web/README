@@ -1,0 +1,7 @@
+This is your new Play application
+=====================================
+
+This file will be packaged with your application, when using `play dist`.
+
+[26.10.13 15:13:03] christianhuening: cas_rtc_to_gui
+[26.10.13 15:13:07] christianhuening: cas_gui_to_rtc

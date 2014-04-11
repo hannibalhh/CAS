@@ -1,0 +1,45 @@
+Project structure
+
+- build.sbt: Configuration for simple build tools (see Building project)
+- messages/*: protobuf messges (*.proto)
+- src/main/java/*: generated Java classes (*.java)
+
+
+Building project
+
+You need to install sbt 0.13 to build project: 
+http://www.scala-sbt.org/
+sbt is a project builder for java or scala projects
+
+In terminal from project root, you can run:
+
+sbt build
+
+If you want to build eclipse projects, you have to declare de eclipse plugin
+in <homedirectory>/.sbt/plugins.sbt:
+
+resolvers += Classpaths.typesafeResolver
+
+addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "2.3.0")
+
+In terminal from project root, you can run:
+sbt eclipse
+
+to build a eclipse directory.
+With or without eclipse project generation you get the project dependency:
+protobuf util classes
+
+ 
+Building java classes with proto files
+
+You have to install protobuf 2.5.0.
+Your working directory is project root.
+Than, you run the protobufcompiler.
+Input is your directory (means: ./)
+Java output is ./output
+Than you choose your proto files (messages/...).
+Java files can you find in  output/<package declared in .proto file>/<message>.java
+
+Example for needs/NeedsMessage.proto  
+
+protoc -I=./ --java_out=output/ messages/common/AkkaMessage.proto 

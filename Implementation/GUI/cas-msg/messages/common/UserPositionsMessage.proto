@@ -1,0 +1,18 @@
+package org.haw.cas.Adapters.AkkaAdapter.Implementation.ProtoMsgBuilder;
+
+import "messages/common/GeoCoordinatesMessage.proto";
+
+message UserPositions {
+	required string requestId = 1;
+	repeated UserPosition userPositions = 2;
+}
+
+message UserPosition {	
+	required string user = 1;
+	required GeoCoordinates center = 2;
+	required float radius = 3;
+	required int32 certainty = 4;
+	required string provenance = 5;
+	required int64 creationTime = 6;
+	required string message = 7;
+}

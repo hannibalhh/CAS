@@ -1,0 +1,47 @@
+package org.haw.cas.Adapters.AkkaAdapter.Implementation.ProtoMsgBuilder;
+
+
+
+enum TimelineType {
+	TCrevasse = 1;
+	THelper = 2;
+	TMedicaments = 3;
+	TAccomodation = 4;
+	TDrink = 5;
+	TFood = 6;
+}
+
+enum PositionSetting {
+	With = 1;
+	Without = 2;
+	Both = 3;
+}
+
+message Timelines {
+	required string requestId = 1;
+	repeated Timeline timelines = 2;
+}
+
+message Timeline {
+	required TimelineType type = 1;
+	required bool hasValues = 2;
+	repeated Point dataPoints = 3;
+}
+
+message Point {
+	required int64 x = 1;
+	required float y = 2;
+}
+
+
+message UpdateTimelines {
+	required string requestId = 1;
+	repeated TimelineRequest requestList = 2;	
+	required int64 from = 3;
+	required int64 to = 4;
+}
+
+message TimelineRequest {
+	required TimelineType type = 1;
+	required PositionSetting positionSetting = 2;
+}

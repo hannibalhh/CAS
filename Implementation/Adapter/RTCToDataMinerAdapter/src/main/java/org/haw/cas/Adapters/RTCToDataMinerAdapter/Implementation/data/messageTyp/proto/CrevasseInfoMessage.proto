@@ -1,0 +1,5 @@
+package org.haw.cas.Adapters.RTCToDataMinerAdapter.Implementation.data.messageTyp.java;
+
+message CrevasseInfo {
+	required string message = 1;
+}

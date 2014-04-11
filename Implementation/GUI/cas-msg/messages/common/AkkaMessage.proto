@@ -1,0 +1,51 @@
+package org.haw.cas.Adapters.AkkaAdapter.Implementation.ProtoMsgBuilder;
+
+import "messages/needs/NeedsMessage.proto";
+import "messages/needs/UpdateNeedsMessage.proto";
+import "messages/crevasses/UpdateCrevassesMessage.proto";
+import "messages/crevasses/CrevassesMessage.proto";
+import "messages/region/UpdateRegionMessage.proto";
+import "messages/region/RegionMessage.proto";
+import "messages/common/UserPositionsMessage.proto";
+import "messages/common/UpdateUserPositionsMessage.proto";
+import "messages/common/PostsMessage.proto";
+import "messages/timelines/TimelinesMessage.proto";
+
+
+
+// Wrapper for all messages between Akka server and RTC. The enum can be used to determine
+// the type of the actual message.
+message AkkaMessageBuilder {
+
+	enum MessageType {
+		UpdateNeedsMessage = 1;
+		NeedsMessage = 2;
+		UpdateCrevassesMessage = 3;
+		CrevassesMessage = 4;
+		UpdateRegionMessage = 5;
+		RegionMessage = 6;
+		UserPositionsMessage = 7;
+		UpdateUserPositionsMessage = 8;
+		UpdateTimelinesMessage = 9;
+		TimelinesMessage = 10;
+		UpdatePostsMessage = 11;
+		PostsMessage = 12;
+	}
+
+
+	required string Sender = 1;
+	required MessageType Type = 2;
+
+	optional UpdateNeeds updateNeeds = 3;
+	optional Needs needs = 4;
+	optional UpdateCrevasses updateCrevasses = 5;
+	optional Crevasses crevasses = 6;
+	optional UpdateRegion updateRegion = 7;	
+	optional Region region = 8;
+	optional UpdateUserPositions updateUserPositions = 9;
+	optional UserPositions userPositions = 10;	
+	optional UpdateTimelines updateTimelines = 11;
+	optional Timelines timelines = 12;
+	optional UpdatePosts updatePosts = 13;
+	optional Posts posts = 14;
+}

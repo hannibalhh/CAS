@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/hannibal/Repositories/CAS/Implementation/GUI/cas-web/conf/application.conf,/Users/hannibal/Repositories/CAS/Implementation/GUI/cas-web/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/hannibal/Repositories/CAS/Implementation/GUI/cas-web/conf/logback.xml,/Users/hannibal/Repositories/CAS/Implementation/GUI/cas-web/target/scala-2.10/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/hannibal/Repositories/CAS/Implementation/GUI/cas-web/conf/logger.xml,/Users/hannibal/Repositories/CAS/Implementation/GUI/cas-web/target/scala-2.10/classes/logger.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/hannibal/Repositories/CAS/Implementation/GUI/cas-web/conf/routes,/Users/hannibal/Repositories/CAS/Implementation/GUI/cas-web/target/scala-2.10/classes/routes)[0m

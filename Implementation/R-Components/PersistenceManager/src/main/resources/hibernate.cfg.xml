@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration SYSTEM
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+
+
+        <property name="hibernate.connection.url">jdbc:mysql://win-devel.informatik.haw-hamburg.de:3306/cas_rtc</property>
+        <property name="hibernate.connection.username">cas</property>
+        <property name="hibernate.connection.password">IlmSG400</property>
+        <property name="hibernate.hbm2ddl.auto">update</property>
+
+
+        <!-- List of XML mapping files -->
+        <mapping class="org.haw.cas.RealTimeCore.CommonTypes.Entities.Crevasse"/>
+        <mapping class="org.haw.cas.RealTimeCore.CommonTypes.Entities.GeoCoordinate"/>
+        <mapping class="org.haw.cas.RealTimeCore.CommonTypes.Entities.Need"/>
+        <mapping class="org.haw.cas.RealTimeCore.CommonTypes.Entities.Position"/>
+        <mapping class="org.haw.cas.RealTimeCore.CommonTypes.Entities.User"/>
+        <mapping class="org.haw.cas.GlobalTypes.MessageInfo.Provenance"/>
+        <mapping class="org.haw.cas.Adapters.PersistenceManager.Implementation.IdClassMapper"/>
+        <!-- <mapping class="org.haw.cas.Adapters.PersistenceManager.Implementation.Testing.TestEntity"/> -->
+
+    </session-factory>
+</hibernate-configuration>

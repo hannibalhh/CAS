@@ -1,0 +1,77 @@
+GUIAdapter Overview
+
+The GUIAdapter provides a Interface called IGUIAdapter
+which must be implemented by user of this adapter.
+The Implementation has the method message(byte[] reuqest)
+which is called on incoming message. 
+This method has the incoming message as parameter
+and choose the rtc business methods and returns
+ the answer as byte array. Its recommended to
+ extends the AbstractGUIAdapter, because its initiates
+ the internal message handler.
+ You can also send with your GUIAdapter messages with the 
+ sendMessages(byte[] message) method.
+ You only have to initiate your IGUIAdapter impelementation to run
+ the adapter.
+ 
+Configuration
+
+
+You have to implement like 
+Config config(){ 
+	return new Config("localhost",5672, "guest","guest")
+}
+in your IGUIAdapter impelementation your own configuration.
+The handler needs this information.
+Config.official and Config.localhost are predefined.
+
+Example
+
+import org.haw.cas.guiadapter.AbstractGUIAdapter;
+import org.haw.cas.guiadapter.data.config.Config;
+public class MyAdapter extends AbstractGUIAdapter{
+	protected Config config() {
+		return Config.localhost;
+	}
+	
+	public static void main(String[] args) {
+		new MyAdapter();
+	}
+
+	@Override
+	public byte[] getMessage(byte[] arg0) {
+		return "foo".getBytes();
+	}
+
+}
+ 
+Project structure
+
+- build.sbt: Configuration for simple build tools (see Building project)
+- src/main/java/*: generated Java classes (*.java)
+
+
+Building project
+
+You need to install sbt 0.13 to build project: 
+http://www.scala-sbt.org/
+sbt is a project builder for java or scala projects
+
+In terminal from project root, you can run:
+
+sbt build
+
+If you want to build eclipse projects, you have to declare de eclipse plugin
+in <homedirectory>/.sbt/plugins.sbt:
+
+resolvers += Classpaths.typesafeResolver
+
+addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "2.3.0")
+
+In terminal from project root, you can run:
+sbt eclipse
+
+to build a eclipse directory.
+With or without eclipse project generation you get the project dependency:
+protobuf util classes
+ 

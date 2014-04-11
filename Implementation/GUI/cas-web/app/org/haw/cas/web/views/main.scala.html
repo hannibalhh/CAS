@@ -1,0 +1,46 @@
+@(title: String)(content: Html)
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>@title</title>
+
+	    <meta name="format-detection" content="telephone=no" />
+		<meta name="viewport" content="width=device-width, user-scalable=yes">
+		<meta charset="utf-8">
+		<!-- Fullscreen Webapp -->
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		
+		<!--Sets whether a web application runs in full-screen mode-->
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		
+    	<!-- Icon for Tab -->
+    	<link href="@routes.Assets.at("images/flood.ico")" rel="icon" type="image/x-icon"/>
+
+		<!-- Theme jQuery Mobile -->
+		<link rel="stylesheet" href="@routes.Assets.at("stylesheets/themes/jquery.mobile-1.4.0-rc.1.min.css")" />
+		
+		<!-- Eigene Icons, Hintergrundbild -->
+		<link rel="stylesheet" href="@routes.Assets.at("stylesheets/styles.css")" />
+		
+		<link rel="stylesheet" type="text/css" href="http://dev.jtsage.com/cdn/datebox/latest/jqm-datebox.min.css" />
+		<!-- jQuery -->
+		<script src="@routes.Assets.at("javascripts/jquery/jquery-1.10.2.min.js")"></script> 	
+
+		<!-- Globale Definition von HeaderTheme, FooterTheme etc. -->
+		<script src="@routes.Assets.at("javascripts/globalDefinations.js")"></script>
+		
+		<!-- jQuery Mobile -->
+		<script src="@routes.Assets.at("javascripts/jquery_mobile/jquery.mobile-1.4.0-rc.1.min.js")"></script> 
+
+		<script type="text/javascript" src="http://dev.jtsage.com/cdn/datebox/latest/jqm-datebox.core.min.js"></script>
+	
+		<script src="@routes.Assets.at("javascripts/jqm-datebox.mode.durationbox.min.js")"></script>
+		<script src="@routes.Assets.at("javascripts/jqm-datebox.mode.calbox.min.js")"></script>
+
+	</head>
+    <body>
+        @content
+    </body>
+</html>

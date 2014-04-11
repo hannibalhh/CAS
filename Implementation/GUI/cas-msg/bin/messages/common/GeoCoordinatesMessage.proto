@@ -1,0 +1,6 @@
+package org.haw.cas.Adapters.AkkaAdapter.Implementation.ProtoMsgBuilder;
+
+message GeoCoordinates {
+	required float latitude = 1;
+	required float longitude = 2;
+}

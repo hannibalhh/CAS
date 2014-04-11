@@ -1,0 +1,5 @@
+package org.haw.cas.Adapters.AkkaAdapter.Implementation.ProtoMsgBuilder;
+
+// ask to server, awaits a Needs message
+message UpdateNeeds {
+}

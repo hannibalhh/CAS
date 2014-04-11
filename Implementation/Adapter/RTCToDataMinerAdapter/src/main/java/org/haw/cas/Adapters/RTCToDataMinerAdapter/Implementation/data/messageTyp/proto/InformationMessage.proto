@@ -1,0 +1,47 @@
+package org.haw.cas.Adapters.RTCToDataMinerAdapter.Implementation.data.messageTyp.java;
+
+import "CrevasseInfoMessage.proto";
+import "NeedInfoMessage.proto";
+
+message Information {
+
+	enum Provenance{
+		Twitter = 1;
+		Unknown = 2;
+	}
+
+	required string id = 1;
+	required string text = 2;
+	required string author = 3;
+	repeated InMessage infoMessage = 4;
+	required string date = 5;
+	required InMetadataMessage informationMetadataMessage = 6;
+	required Provenance provenance  = 7;
+
+}
+
+message InMessage {
+// Enum for InfoMessageType classification
+    enum TypeOfMessage {
+         Location = 1;
+         Need = 2;
+         Crevasse = 3;
+    }
+
+	required TypeOfMessage type = 1;
+	required int32 certainty = 2;
+	optional LoMessage location = 3;
+	optional CrevasseInfo  crevasse = 4;
+	optional NeedsInfoMessage need = 5;
+}
+    //TODO Message in INMESSAGE not REQUIRED
+message InMetadataMessage {
+	repeated string topics = 1;
+	repeated string pictureUrls =2;
+}
+
+message LoMessage {
+	required double longitude = 1;
+	required double latitude = 2;
+
+}

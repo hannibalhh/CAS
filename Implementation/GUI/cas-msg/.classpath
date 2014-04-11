@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="output/org/haw/cas/Adapters/AkkaAdapter/Implementation/ProtoMsgBuilder/" kind="src" path=""/>
+	<classpathentry kind="src" path="output/org/haw/cas/Adapters/AkkaAdapter/Implementation/ProtoMsgBuilder"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

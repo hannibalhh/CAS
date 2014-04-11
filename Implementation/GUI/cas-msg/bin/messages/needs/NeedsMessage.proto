@@ -1,0 +1,52 @@
+package org.haw.cas.Adapters.AkkaAdapter.Implementation.ProtoMsgBuilder;
+
+import "messages/common/GeoCoordinatesMessage.proto";
+
+// broadcast channel: needs
+message Needs {
+  repeated Helper helper = 1;
+  repeated Food food = 2;
+  repeated Drink drink = 3;
+  repeated Medicament medicament = 4;
+  repeated Accomodation accomodation = 5;  
+}
+
+message Medicament {
+	required string author = 1;
+	required GeoCoordinates geo = 2;
+	required int64 creationTime = 3;
+	required string message = 4;
+	required string Provenance = 5;
+}
+
+message Helper {
+	required string author = 1;
+	required GeoCoordinates geo = 2;
+	required int64 creationTime = 3;
+	required string message = 4;
+	required string Provenance = 5;
+}
+
+message Food{
+	required string author = 1;
+	required GeoCoordinates geo = 2;
+	required int64 creationTime = 3;
+	required string message = 4;
+	required string Provenance = 5;
+}
+
+message Drink{
+	required string author = 1;
+	required GeoCoordinates geo = 2;
+	required int64 creationTime = 3;
+	required string message = 4;
+	required string Provenance = 5;
+}
+
+message Accomodation{
+	required string author = 1;
+	required GeoCoordinates geo = 2;
+	required int64 creationTime = 3;
+	required string message = 4;
+	required string Provenance = 5;
+}

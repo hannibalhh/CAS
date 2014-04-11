@@ -1,0 +1,6 @@
+package org.haw.cas.Adapters.AkkaAdapter.Implementation.ProtoMsgBuilder;
+
+// broadcast channel: region
+message Region {
+	required string urlToKMl = 1;
+}

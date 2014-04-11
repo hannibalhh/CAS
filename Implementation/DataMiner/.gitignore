@@ -1,0 +1,8 @@
+# Reinclude Intellij project files
+!.idea/
+!*.iml
+!*lib/*
+#!*.iws
+
+# Ignore log files
+*.log
